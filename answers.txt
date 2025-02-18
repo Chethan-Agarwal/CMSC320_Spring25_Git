@@ -7,7 +7,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Software engineering. An example would be having to interpret large data sets from a database
 
-
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging combines branches while preserving history, while rebasing rewrites history by moving commits from one branch to another
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning SQL
