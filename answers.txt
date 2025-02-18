@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Software engineering. An example would be having to interpret large data sets from a database
